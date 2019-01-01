@@ -1,0 +1,26 @@
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+body {
+    background: #303540;
+    color: #c0c0c0;
+
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+h1, h2
+{
+    font-family: "Tw Cen MT", Verdana, Arial, serif;
+    margin-bottom: 0%;
+}
+
+p
+{
+    font-family: "Microsoft Sans Serif", Verdana, Arial, serif;
+    font-size: 12pt;
+    line-height: 1.5;
+    text-align: justify;
+}
