@@ -1,5 +1,5 @@
 body {
-    background: #303540;
+    background: #292d33;
     color: #d0d0d0;
 
     margin-left: 25%;
@@ -20,13 +20,13 @@ h1
 
 h2
 {
-    font-size: 26pt;
+    font-size: 24pt;
 }
 
 #bodytext
 {
     font-family: "Microsoft Sans Serif", Verdana, Arial, serif;
-    font-size: 15pt;
+    font-size: 13pt;
     line-height: 1.3;
 }
 
